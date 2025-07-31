@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Chika Takami" << endl;
+    cout << "Nahiyan Islam" << endl;
     return 0;
 }
